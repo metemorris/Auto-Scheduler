@@ -27,4 +27,11 @@ After initial responses are recieved the supervisor will have the option to run 
 - [] Create user authentication and sign up for the service
 - [] Make a graphical calendar UI where the supervisor can add shifts on a week
 
+* * *
+
+## Technologies Used 
+- HTML/CSS/W3.CSS -> Website design
+- Google Sheets API -> for saving schedules teams and everythin
+- Python -> managing google sheets api
+- JavaScript -> data comm
 
