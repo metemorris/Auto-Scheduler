@@ -5,9 +5,8 @@ The main goal is to allow a supervisor to set a schedule on a calendar and set a
 The information needed from the supervisor are:
 + The date range where the schedule will be valid for
 + Shift Times
-+ Repeating weekly hours. 
-+ Employee email addresss
 + Deadline by which the schedules should be submitted.
++ Assigned staff team
 
 After the supervisor fills this information out, a spreadsheet will be populated by the information collected. The employees will recieve an email prompting them to open and fill out a form.
 
@@ -20,7 +19,12 @@ After initial responses are recieved the supervisor will have the option to run 
 
 * * * 
 ## Workflow
-1) Collect basic information from the supervisor and save it to google sheets
-2) Make a graphical calendar UI where the supervisor can add shifts on a week
+- [x] Create a sample website 
+- [] Collect basic information from the supervisor and save it to google sheets
+- [] Prepare the full form so supervisors can send all the information (except visual shift aid)
+- [] Allow supervisors to create Teams and see teams
+- [] Create landing page
+- [] Create user authentication and sign up for the service
+- [] Make a graphical calendar UI where the supervisor can add shifts on a week
 
 
