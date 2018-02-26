@@ -20,12 +20,12 @@ After initial responses are recieved the supervisor will have the option to run 
 * * * 
 ## Workflow
 - [x] Create a sample website 
-- [] Collect basic information from the supervisor and save it to google sheets
-- [] Prepare the full form so supervisors can send all the information (except visual shift aid)
-- [] Allow supervisors to create Teams and see teams
-- [] Create landing page
-- [] Create user authentication and sign up for the service
-- [] Make a graphical calendar UI where the supervisor can add shifts on a week
+- [ ] Collect basic information from the supervisor and save it to google sheets
+- [ ] Prepare the full form so supervisors can send all the information (except visual shift aid)
+- [ ] Allow supervisors to create Teams and see teams
+- [ ] Create landing page
+- [ ] Create user authentication and sign up for the service
+- [ ] Make a graphical calendar UI where the supervisor can add shifts on a week
 
 * * *
 
