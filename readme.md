@@ -1,4 +1,4 @@
-# Auto Scheduler
+# Meteduler
 This scheduler was intenteded to schedule CDA shifts automatically for IIT-RGL.
 The main goal is to allow a supervisor to set a schedule on a calendar and set a date range where it is valid.
 
